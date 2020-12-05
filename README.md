@@ -1,7 +1,8 @@
 # PREDICTING THE IMPROBABLE 
 ## An analysis on Yield Curve as Recession Indicator in the framework of Python Programming
 
-This is my final coursework for ANL251 Python Programming module. 
+The notebook serves to visualise treasury yield curves and it relation to recession.
 
-Jupyter notebook contains table of contents and introduction to the topic.
+Jupyter notebook contains introduction to the topic.
+
 For analysis report, please contact me directly. 
